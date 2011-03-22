@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "com.vmware.bazgap1"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>BazGap: Start Me Up</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Basil's modified template for getting started with PhoneGap dev & Build
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://bhashem.github.com"
+		email="bhashem@vwmware.com">
+		Basil Hashem
 	</author>
 
 	<gap:platforms>
